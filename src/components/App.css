@@ -1,0 +1,13 @@
+body {
+  background: #c9d6ff;
+  background: -webkit-linear-gradient(to bottom, #e2e2e2, #c9d6ff);
+  background: linear-gradient(to bottom, #e2e2e2, #c9d6ff);
+  overflow: hidden;
+}
+
+.container {
+  background-color: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin-top: 10rem;
+}
